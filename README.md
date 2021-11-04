@@ -2,6 +2,11 @@
 Moisés Estevéz Real
 
 ## Índice:
-Comprobar si Git esta instalado en el servidor (si lo esta mirar que versión tiene)
-En caso de no tenerlo instalado, lo instalaremos
-Confirmaremos la versión que tenemos 
+Comprobar si tenemos una versión de Git instalada
+En caso de no tenerlo instalado, lo instalaremos.
+Confirmamos la versión que tenemos.
+Instalar el software necesario para Git
+Crear un directorio temporal
+Descargaremos la version que queramos y descomprimirlo
+Creamos e instalamos los paquetes
+Escribimos nuestro nombre y nuestro email
